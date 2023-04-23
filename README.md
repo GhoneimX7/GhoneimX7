@@ -4,9 +4,10 @@
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=Ghoneimx7&theme=darcula&hide_border=true&background=FFFFFF00">
 </p>
 <h5 align="center">
-	<code><a href="https://www.linkedin.com/in/tahaghoneim/" title="LinkedIn Profile"><img width="22" src="img/linkedin.svg"> LinkedIn</a></code>
-	<code><a href="https://stackoverflow.com/users/16606996/taha-ghoneim" title="Stack Overflow Profile"><img width="22" src="img/stackoverflow.svg"> Stack Overflow</a></code>
-	<code><a href="https://t.me/Ghoneimx7" title="Telegram Profile"><img width="22" src="img/telegram.png"> LinkedIn</a></code>
+	<code><a href="https://www.linkedin.com/in/tahaghoneim/" title="LinkedIn Profile"><img width="22" src="img/linkedin.svg">LinkedIn</a></code>
+	<code><a href="https://stackoverflow.com/users/16606996/taha-ghoneim" title="Stack Overflow Profile"><img width="22" src="img/stackoverflow.svg">Stack Overflow</a></code>
+	<code><a href="https://twitter.com/GhoneimX7" title="Twitter Profile"><img width="22" src="img/twitter.png">Twitter</a></code>
+	<code><a href="https://t.me/Ghoneimx7" title="Telegram Profile"><img width="22" src="img/telegram.png">Telegram</a></code>
 	</h5>
 
 <!-- <p align="center">
